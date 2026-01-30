@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.omni/
+.vscode/
+.DS_Store
