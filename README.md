@@ -1,4 +1,4 @@
-# Isaac Sim Project (Template)
+# Isaac Sim Project (Extension of MIT Learning Project for Robotic Manipulation)
 
 Minimal Isaac Sim template that loads a basic scene (optional) and spawns a KUKA iiwa robot.
 
